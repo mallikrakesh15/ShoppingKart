@@ -1,0 +1,7 @@
+RakeshProject\PageObject\LandingPage.class
+RakeshProject\PageObject\ProductCatalouge.class
+RakeshProject\AbstractComponents\AbstractComponents.class
+RakeshProject\PageObject\OrderPage.class
+RakeshProject\PageObject\CartPage.class
+RakeshProject\PageObject\CheckOutPage.class
+RakeshProject\PageObject\ConfirmationPage.class
