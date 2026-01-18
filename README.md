@@ -23,3 +23,9 @@ E2E Test Automation Framework for a Shopping E-Commerce application using Seleni
       Automated test execution triggered on code push 
       Continuous feedback through build and test reports 
       Improved test reliability and faster release cycles
+
+Extent Reort
+<img width="1594" height="774" alt="image" src="https://github.com/user-attachments/assets/c829dcf1-a757-4644-a96a-b8d6ca7cd538" />
+
+<img width="1584" height="573" alt="image" src="https://github.com/user-attachments/assets/d2c574d6-676c-4886-91e7-f13ff6cf20cd" />
+
